@@ -23,7 +23,7 @@ python IP INFO.py
 
 ------------------------------------------------------------------------------------------------------------
 
-please dont steal the scrpit
+please dont steal the scrpit and change its copyrights
 
 made by MSD
 
