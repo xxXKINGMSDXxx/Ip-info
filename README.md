@@ -1,5 +1,5 @@
-Ip-info
-A Tool  thats help u get information about an ip
+
+ Tool  thats help u get information about an ip
 
 INSTALL:
 
