@@ -19,7 +19,7 @@ git clone https://github.com/xxXKINGMSDXxx/Ip-info.git
 
 cd Ip-info
 
-python IP INFO.py
+python 'IP INFO.py'
 
 ------------------------------------------------------------------------------------------------------------
 
