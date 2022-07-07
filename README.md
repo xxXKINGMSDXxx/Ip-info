@@ -13,7 +13,7 @@ apt install python
 
 pip install requests
 
-pip install pprint
+
 
 git clone https://github.com/xxXKINGMSDXxx/Ip-info.git
 
